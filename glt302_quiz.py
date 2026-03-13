@@ -12,7 +12,7 @@ st.set_page_config(page_title="GLT 302 Test", page_icon="📡", layout="centered
 SCORES_CSV    = "scores.csv"
 ATTEMPTS_JSON = "attempts.json"
 DURATION_SEC  = 600
-PASS_MARK     = 65
+PASS_MARK     = 60
 NUM_Q         = 30
 
 # ─────────────────────────────────────────────────────────────────────────────
