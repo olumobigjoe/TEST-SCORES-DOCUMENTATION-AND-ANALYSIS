@@ -317,7 +317,7 @@ if st.session_state.page == "login":
     st.markdown("""
     <div class="top-bar">
         <h2>📡 GLT 302 – General Instrumentation</h2>
-        <p>Online Test &nbsp;|&nbsp; 30 Questions &nbsp;|&nbsp; 10 Minutes &nbsp;|&nbsp; Pass Mark: 65%</p>
+        <p>Online Test &nbsp;|&nbsp; 30 Questions &nbsp;|&nbsp; 10 Minutes &nbsp;|&nbsp; Pass Mark: 60%</p>
     </div>""", unsafe_allow_html=True)
 
     st.markdown("### 🎓 Student Login")
