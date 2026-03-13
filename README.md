@@ -100,25 +100,6 @@ The app will automatically include new questions in the random pool.
 
 ---
 
-## 🌐 Deploying to Streamlit Cloud (Free)
-
-1. Push this repo to GitHub.
-2. Go to [share.streamlit.io](https://share.streamlit.io) and sign in with GitHub.
-3. Click **New app** → select this repo → set main file to `glt302_quiz.py`.
-4. Click **Deploy**. You'll get a public URL to share with students anywhere.
-
----
-
-## 🔄 Reset Attempts
-
-To allow students to retake the test (e.g. for a new session), delete the auto-generated files:
-
-```bash
-rm attempts.json scores.csv
-```
-
----
-
 ## 🛠️ Tech Stack
 
 - **Python 3** — core language
