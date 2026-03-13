@@ -24,7 +24,7 @@ A fully featured browser-based examination platform built with **Python + Stream
 ### 1. Clone
 
 ```bash
-git clone https://github.com/yourusername/glt302-quiz-system.git
+git clone https://github.com/olumobigjoe/glt302-quiz-system.git
 cd glt302-quiz-system
 ```
 
